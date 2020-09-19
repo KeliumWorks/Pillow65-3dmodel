@@ -1,7 +1,7 @@
 # Pillow65-3dmodel
 .blend file of Pillow 65 Keyboard by Foggy - Kelium Works for keycap designer.
 
-![Banner](images/keyvisualtx.png?raw=true "Key Visual")
+![Banner](images/keyvisualtx.jpg?raw=true "Key Visual")
 
 This is the version without internal for render purpose. Release under CC BY-SA 4.0 license with intention to let everyone use within commercial project for free, all you need to do is credit me (Kelium Works team or Foggy or both).
 
