@@ -3,7 +3,7 @@
 
 ![Banner](images/keyvisualtx.jpg?raw=true "Key Visual")
 
-This is the version without internal for render purpose. Release under CC BY-SA 4.0 license with intention to let everyone use within commercial project for free, all you need to do is credit me (Kelium Works team or Foggy or both).
+This is the version without internal for render purpose. Release under CC BY-SA 4.0 license with intention to let everyone use within commercial project for free, all you need to do is credit me (Kelium Works team or Foggy or both). Sending me rendered images including my keyboard is welcomed (Via discord, either https://discord.gg/Fe6RUbu or foggy#4940)
 
 To my understanding, if you decide to modify the Pillow65 keyboard (remix, transform, or build upon the material) then you will need to release your project in the same license, but to do that from the gutted housing without internal, you better off start from scratch :)
 
