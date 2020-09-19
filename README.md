@@ -1,5 +1,14 @@
 # Pillow65-3dmodel
-FBX file for keycap designer
+.blend file of Pillow 65 Keyboard by Foggy - Kelium Works for keycap designer.
+
+This is the version without internal for render purpose. Release under CC BY-SA 4.0 license with intention to let everyone use within commercial project for free, all you need to do is credit me (Kelium Works team or Foggy or both).
+
+To my understanding, if you decide to modify the Pillow65 keyboard (remix, transform, or build upon the material) then you will need to release your project in the same license, but to do that from the gutted housing without internal, you better off start from scratch :)
+
+## Special thanks to:
+ImperfectLink helping the conversion to get better model from parametric model.
+Swishy from Keycap Designers Discord Server for advices.
+
 ---
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
