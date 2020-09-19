@@ -5,9 +5,18 @@ This is the version without internal for render purpose. Release under CC BY-SA 
 
 To my understanding, if you decide to modify the Pillow65 keyboard (remix, transform, or build upon the material) then you will need to release your project in the same license, but to do that from the gutted housing without internal, you better off start from scratch :)
 
+## The case materials for reference
+- Top: Color anodized aluminium
+- Plate: Brass
+- Bottom: Dark gray hard anodized aluminium
+- Screws & Usb port: Steel
+- Bumpons: 3M semi transparent polyurethane
+
+The file included plate with single switch cutout hole for alignment. From keycap bottom to plate distance is 7mm.
+
 ## Special thanks to:
-ImperfectLink helping the conversion to get better model from parametric model.
-Swishy from Keycap Designers Discord Server for advices.
+- ImperfectLink helping the conversion to get better model from parametric model.
+- Swishy from Keycap Designers Discord Server for advices.
 
 ---
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
